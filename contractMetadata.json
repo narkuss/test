@@ -1,0 +1,8 @@
+{
+    "name": "contract name",
+    "description": "This is the description",
+    "image": "https://raw.githubusercontent.com/narkuss/test/main/planetExpress.svg",
+    "external_link": "https://raw.githubusercontent.com/narkuss/test/main/contractMetadata.json",
+    "seller_fee_basis_points": 100,
+    "fee_recipient": "0xd22132968e6D0C495095499373CCcE49A013f7C1"
+}
